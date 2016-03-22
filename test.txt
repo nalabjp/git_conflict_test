@@ -1,1 +1,2 @@
 line 1 is from init
+line 2 is from origin
